@@ -1,0 +1,14 @@
+AlphaVantage Stock API
+https://www.alphavantage.co/
+
+AlphaVantage Documentation
+https://www.alphavantage.co/documentation/
+
+AlphaVantage demo url 
+https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&apikey=demo
+
+News API
+https://newsapi.org/
+
+Twilio
+https://www.twilio.com/
