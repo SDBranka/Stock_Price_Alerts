@@ -50,8 +50,6 @@ percentage = abs(round(price_change_percent, 2))
 
 # if the price has changed more than +/-5% get the first three 
 # relevant news articles and text them to the user
-
-price_change_percent = 14
 if abs(price_change_percent) >= 5:
     # print("Get News")
     ## STEP 2: Use https://newsapi.org
